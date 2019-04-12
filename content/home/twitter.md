@@ -11,8 +11,8 @@ title = "Public"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 15
+weight = 25
 
 +++
 
-{{% twitter lucas-henneman %}}
+{{% twitter lucas_henneman %}}
