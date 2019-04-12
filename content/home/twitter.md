@@ -18,5 +18,5 @@ weight = 25
 
 {{% twitter lucas_henneman %}}
 
-{{% medium lucas_henneman %}}
+{{% medium %}}
 
