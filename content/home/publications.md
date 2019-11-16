@@ -68,4 +68,4 @@ subtitle = ""
 
 {{% alert note %}}
 [Search publications here]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+#{{% /alert %}}
