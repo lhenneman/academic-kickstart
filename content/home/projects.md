@@ -82,5 +82,5 @@ In pursuing this research, I investigate relationships between links along the C
 
 {{< figure src="AccountabilityChain.jpg" title="A caption" numbered="true" lightbox="true" >}}
 
-![HyADS in each year](AccountabilityChain.png){width=80%}
+![HyADS in each year](/img/AccountabilityChain.png){width=80%}
 
