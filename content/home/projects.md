@@ -22,7 +22,7 @@ subtitle = ""
   filter_default = 0
   
    [[content.filter_button]]
-     name = "All"
+     name = "Background"
      tag = "*"
   
    [[content.filter_button]]
@@ -80,7 +80,5 @@ I prioritize communication with stakeholders affected by the links in the Accoun
 
 In pursuing this research, I investigate relationships between links along the Chain of Accountability (figure below). This framework describes how regulations impact emissions, air quality, personal dose/exposure, and ultimately public health. Though we can measure changes at each of these links, the relationships that accountability researchers are interested in (blue portions of the arrows) are clouded by other factors (red portions), making it difficult to causally attribute changes at any link to air quality regulations.
 
-{{< figure src="AccountabilityChain.jpg" title="A caption" numbered="true" lightbox="true" >}}
-
-![HyADS in each year](/img/AccountabilityChain.png){width=80%}
+![HyADS in each year](/img/AccountabilityChain.png)
 
