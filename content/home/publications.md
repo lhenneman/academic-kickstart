@@ -66,4 +66,3 @@ subtitle = "[Google Scholar](https://scholar.google.com/citations?user=IL-s1LkAA
  css_class = ""
 +++
 
-[SEE ALL PUBLICATIONS >]({{< ref "/publication/_index.md" >}}).
