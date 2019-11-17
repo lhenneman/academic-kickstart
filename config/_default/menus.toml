@@ -23,15 +23,16 @@
   url = "#publications"
   weight = 40
 
-#[[main]]
-#  name = "Tutorials"
-#  url = "/tutorial/"
-#  weight = 50
-
 [[main]]
   name = "Public"
   url = "#twitter"
+  weight = 50
+
+[[main]]
+  name = "Tutorials"
+  url = "#contact"
   weight = 60
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
