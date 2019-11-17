@@ -70,8 +70,8 @@ preserveTaxonomyNames = true
   # you may want to use https://realfavicongenerator.net to generate you files
   # used in layouts/partials/head.favicon.html
   # relURL is applied to path
-  enable    = "/static/img"
-  path      = "/images/favicons"
+  enable    = true
+  path      = "/static/img"
   version   = "a_random_value"
   maskIicon = "#5bbad5"
   tileColor = "#da532c"
