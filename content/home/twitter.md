@@ -18,5 +18,4 @@ weight = 90
 
 {{% twitter lucas_henneman %}}
 
-{{% medium %}}
 
