@@ -1,12 +1,12 @@
 ---
 title: "Southeast Accountability"
 date: 2019-11-16T18:46:38-05:00
-draft: true
+draft: false
 tags: [accountability]
 ---
 
-In my current position, I continue to address these questions using wide ranging data sources and innovative analytical tools. I'm working with fellow Harvard researchers to develop and expand methods that link power plants to people who are exposed to their emissions. The modeling approach we've developed, HyADS, uses the HYSPLIT trajectory model to track emissions from hundred of sources and quantify contributions of these sources to people living in ZIP codes throughout the country.
+As part of my PhD research, I investigated changes in air quality and source-specific emissions across the Southeast. I employed several data sources—such as observed and modeled air quality and emissions—and analytical tools—including both statistical and deterministic modeling. For instance, I showed how emissions at power plants in the Southeast decreased differently with different regulations:
+These emissions changes (almost 90% at power plants since the mid-1990s) combined with other major emissions changes (from cars, for instance) led to big changes in the air quality in the Southeast. Concentrations of most of the air pollutants we studies decreased over time, with the primary exception of ozone—its unique chemistry meant reduced emissions led to increasing wintertime concentrations.
 
-Using HyADS, my colaborators and I quantified nationwide changes in exposure to coal power plant emissions after 2005. Total nationwide exposure to coal emissions decreased by 70% between 2005 and 2012, and most of th benefits were acheived in the eastern United States. Here, we show the spatial distribution of the change in HyADS coal exposure metric between 2005 and 2012.
+Along with coworkers at Georgia Tech and Emory, my efforts contributed to a [Health Effects Institute](https://www.healtheffects.org/publication/impacts-regulations-air-quality-and-emergency-department-visits-atlanta-metropolitan) report that concluded air quality regulations have been responsible for tens of thousands of avoided respiratory and cardiovascular-related emergency department visits since the year 2000 in Atlanta, GA.
 
-Using the variability in the HyADS metric over time and space, we are applying epidemiological methods designed to mitigate threats of observed and observed confounding. With a team of researchers at Harvard and UT Austin, I identified substantial health benefits of the emissions decreases between 2005 and 2012, and differences in the health impacts of decreases in coal exposure compared to health impacts of decreases in exposure to ambient PM2.5 concentrations.
